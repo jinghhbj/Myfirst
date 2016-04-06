@@ -1,1 +1,3 @@
-alert(1);
+document.getElementById('body').onclick = function(){
+	alert(1);
+}
